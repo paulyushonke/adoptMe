@@ -1,7 +1,7 @@
-# Welcome to our "Adopt Me" Web Application 🐾💕
-  This project is a result of our dedicated work during the FrontendMaster React course, where I learned and implemented the fundamentals of React to create a seamless and engaging user experience. 
+# Welcome to our "Adopt Me" web application 🐾🏡
+  This project is a result of our dedicated work during the FrontendMaster [React course](https://frontendmasters.com/courses/complete-react-v8/), where I learned and implemented the fundamentals of React to create a seamless and engaging user experience. 
   
-  My application aims to simplify the pet adoption process, making it easier for users to find their perfect furry companions
+  Our application aims to simplify the pet adoption process, making it easier for users to find their perfect furry companions
 
 ![Screenshot](screenshots/screenshot1.png)
 
