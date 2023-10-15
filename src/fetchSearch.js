@@ -1,7 +1,7 @@
 async function fetchSearch({ queryKey }) {
   const { animal, location, breed } = queryKey[1];
 
-  let apiUrl = `http://pets-v2.dev-apis.com/pets?animal=${animal}&location=${location}`;
+  let apiUrl = `https://pets-v2.dev-apis.com/pets?animal=${animal}&location=${location}`;
 
   if (breed) {
     apiUrl += `&breed=${breed}`;
